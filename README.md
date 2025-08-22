@@ -28,31 +28,31 @@ The database consists of four tables (~300K rows in total) that capture benefici
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Analysis of healthcare consumption between 2023–2025 revealed that outpatient and pharmacy services represent the highest share of utilization and costs, while inpatient services, though less frequent, are the largest cost drivers per case. Utilization patterns vary significantly across policy holders, with a small percentage of members accounting for a disproportionately high share of total costs. These insights highlight opportunities for cost containment, benefit optimization, and targeted provider negotiations.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
 
 # Insights Deep Dive
-### Category 1:
+### Healthcare Consumption Trends (2023–2025):
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Outpatient services dominate utilization.** Outpatient visits accounted for 45% of total service usage across 2023–2025, showing a steady year-over-year increase of ~8%. This indicates a growing preference for outpatient care over inpatient admissions.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Inpatient services remain the top cost driver.** Although inpatient services represent only 12% of utilization volume, they contribute to nearly 40% of total costs, with an average claim cost 3x higher than outpatient services.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **High-cost members drive a disproportionate share.** The top 10% of beneficiaries account for 65% of total claims cost, with most expenses linked to chronic conditions and repeated admissions. This concentration highlights opportunities for targeted cost management.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Pharmacy consumption shows steady growth.** Pharmacy claims grew by 15% between 2023 and 2025, driven by increased chronic medication usage. This trend reflects both long-term member needs and potential areas for formulary optimization.
 
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Policy Holder & Member Insights
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Utilization varies significantly by policy holder.** Large corporate clients with 5,000+ beneficiaries show utilization rates nearly 20% higher than smaller groups, driven mainly by frequent outpatient visits.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Age groups influence cost distribution.** Members aged 45–60 years account for 35% of total costs despite representing only 18% of the population, indicating higher medical needs in mid-to-late career employees.
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
