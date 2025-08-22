@@ -1,28 +1,24 @@
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+This project is based on data from a Third-Party Administrator (TPA) in the healthcare insurance industry. The company partners with multiple insurers and corporate clients to manage claims, provider networks, and member benefits.
 
-Insights and recommendations are provided on the following key areas:
+Between 2023 and 2025, the TPA served over 200,000 beneficiaries and processed more than 150,000 claims annually. Core business metrics include membership growth, claims utilization rate, cost per member per month (PMPM), and claims turnaround time.
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+Key business metrics include:
+- **Membership Growth Rate:** tracking the number of active beneficiaries year-over-year.
+- **Claims Utilization Rate:** measuring the frequency and intensity of healthcare service use.
+- **Cost per Member per Month (PMPM):** a benchmark for cost efficiency in healthcare financing.
+- **Turnaround Time for Claims Processing:** a critical KPI for operational efficiency.
+- **Healthcare Provider Network Expansion:** monitoring the growth of contracted hospitals, clinics, and pharmacies.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
-
+An interactive Power BI dashboard used to report and explore healthcare consumption trends can be found here [link].
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The database consists of four tables (~300K rows in total) that capture beneficiary information, policy relationships, and healthcare consumption data:
+- **Beneficiaries:** contains demographic and enrollment details for each member, serving as the reference point for linking utilization records.
+- **Consumption:** holds detailed records of healthcare service usage (inpatient, outpatient, pharmacy, etc.), including service type, provider, and cost.
+- **Policy Holder Records:** derived from the Beneficiaries table, this table groups members under their respective policy holders, enabling analysis at the policy or corporate level.
+- **Beneficiary Records:** integrates beneficiary and consumption details, creating standardized records that allow one-to-many mapping between members and their service usage.
 
 [Entity Relationship Diagram here]
 
