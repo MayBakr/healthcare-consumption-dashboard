@@ -35,7 +35,7 @@ Analysis of healthcare consumption between 2023–2025 revealed that outpatient 
 
 
 # Insights Deep Dive
-### Healthcare Consumption Trends (2023–2025):
+### Healthcare Consumption Trends (2023–2025)
 
 * **Outpatient services dominate utilization.** Outpatient visits accounted for 45% of total service usage across 2023–2025, showing a steady year-over-year increase of ~8%. This indicates a growing preference for outpatient care over inpatient admissions.
   
