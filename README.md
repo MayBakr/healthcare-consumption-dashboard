@@ -85,3 +85,8 @@ Based on the analysis of healthcare consumption (2023–2025), the following act
 * **Optimize provider network** Expand contracts in underserved regions and negotiate preferred pricing agreements with high-volume hospitals and pharmacies to minimize cost variation.
 
 * **Support preventive care** Encourage policy holders to adopt wellness and preventive benefits, which are already linked to lower inpatient admission rates in certain groups.
+
+# Dashboard
+The dashboard can be found in Tableau Public here. This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+
+
