@@ -54,43 +54,29 @@ Analysis of healthcare consumption between 2023–2025 revealed that outpatient 
   
 * **Age groups influence cost distribution.** Members aged 45–60 years account for 35% of total costs despite representing only 18% of the population, indicating higher medical needs in mid-to-late career employees.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Dependent members drive outpatient visits.** Dependents (spouses and children) contribute to over 55% of outpatient service usage, especially pediatric consultations and maternity-related services.
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Provider Network Insights
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Utilization is concentrated among a few providers.** The top 10 hospitals and clinics account for over 60% of total claims, showing strong member preference for a limited set of providers within the network.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Cost per service varies widely by provider.** For similar procedures, cost differences of up to 25–30% were observed across providers. This highlights opportunities for preferred provider agreements to manage costs.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Pharmacy network usage is expanding.** Pharmacy claims increased by 18% between 2023–2025, with a noticeable shift toward chain pharmacies that offer wider medication availability.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Provider distribution impacts access.** Regions with fewer contracted providers show higher inpatient admission rates, suggesting that limited outpatient access may be driving members directly to hospitals.
 
 [Visualization specific to category 3]
 
 
-### Category 4:
+# Final Recommendations
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
-
-
-
-# Recommendations:
-
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the analysis of healthcare consumption (2023–2025), the following actions are recommended to optimize costs, improve member outcomes, and strengthen provider partnerships:
 
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
