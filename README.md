@@ -14,7 +14,7 @@ An interactive Power BI dashboard used to report and explore healthcare consumpt
 
 # Data Structure & Initial Checks
 
-The database consists of four tables (~300K rows in total) that capture beneficiary information, policy relationships, and healthcare consumption data:
+The database consists of four tables (~140K rows in total) that capture beneficiary information, policy relationships, and healthcare consumption data:
 - **Beneficiaries:** contains demographic and enrollment details for each member, serving as the reference point for linking utilization records.
 - **Consumption:** holds detailed records of healthcare service usage (inpatient, outpatient, pharmacy, etc.), including service type, provider, and cost.
 - **Policy Holder Records:** derived from the Beneficiaries table, this table groups members under their respective policy holders, enabling analysis at the policy or corporate level.
@@ -28,36 +28,34 @@ The database consists of four tables (~300K rows in total) that capture benefici
 
 ### Overview of Findings
 
-Analysis of healthcare consumption between 2023–2025 revealed that outpatient and pharmacy services represent the highest share of utilization and costs, while inpatient services, though less frequent, are the largest cost drivers per case. Utilization patterns vary significantly across policy holders, with a small percentage of members accounting for a disproportionately high share of total costs. These insights highlight opportunities for cost containment, benefit optimization, and targeted provider negotiations.
+Analysis of healthcare consumption between 2018–2025 revealed that outpatient and pharmacy services represent the highest share of utilization and costs, while inpatient services, though less frequent, are the largest cost drivers per case. Utilization patterns vary significantly across policy holders, with a small percentage of members accounting for a disproportionately high share of total costs. These insights highlight opportunities for cost containment, benefit optimization, and targeted provider negotiations.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
 
 # Insights Deep Dive
-### Healthcare Consumption Trends (2023–2025)
+### Healthcare Consumption Trends (2018–2025)
 
-* **Outpatient services dominate utilization.** Outpatient visits accounted for 45% of total service usage across 2023–2025, showing a steady year-over-year increase of ~8%. This indicates a growing preference for outpatient care over inpatient admissions.
+* **Outpatient services dominate utilization.** Outpatient services dominate utilization. Outpatient claims accounted for nearly 32% of the total payable amount across 2018–2025. This reflects a strong financial share for outpatient care compared to other services.
   
-* **Inpatient services remain the top cost driver.** Although inpatient services represent only 12% of utilization volume, they contribute to nearly 40% of total costs, with an average claim cost 3x higher than outpatient services.
+* **Inpatient services remain the top cost driver.** Inpatient claims accounted for 45% of total payable amounts (38 million out of 85 million) across 2018–2025, underscoring their disproportionate impact on overall healthcare spending compared to other service categories.
   
-* **High-cost members drive a disproportionate share.** The top 10% of beneficiaries account for 65% of total claims cost, with most expenses linked to chronic conditions and repeated admissions. This concentration highlights opportunities for targeted cost management.
+* **High-cost members drive a disproportionate share.** The top 3 beneficiaries account for 86% of total claims cost, with the majority of expenses linked to chronic conditions and repeated admissions. This concentration highlights opportunities for targeted cost management.
   
-* **Pharmacy consumption shows steady growth.** Pharmacy claims grew by 15% between 2023 and 2025, driven by increased chronic medication usage. This trend reflects both long-term member needs and potential areas for formulary optimization.
 
 [Visualization specific to category 1]
 
 
 ### Policy Holder & Member Insights
 
-* **Utilization varies significantly by policy holder.** Large corporate clients with 5,000+ beneficiaries show utilization rates nearly 20% higher than smaller groups, driven mainly by frequent outpatient visits.
+* **Utilization varies significantly by policy holder.** The three largest corporate clients, each with more than 5,000 active members, account for 71 million in total utilization, underscoring their outsized impact compared to smaller groups.
   
-* **Age groups influence cost distribution.** Members aged 45–60 years account for 35% of total costs despite representing only 18% of the population, indicating higher medical needs in mid-to-late career employees.
+* **Age groups influence cost distribution.** Members aged 30–44 years account for 44% of total costs (37 million out of 85 million), highlighting the significant healthcare utilization of this mid-age group.
   
-* **Dependent members drive outpatient visits.** Dependents (spouses and children) contribute to over 55% of outpatient service usage, especially pediatric consultations and maternity-related services.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Dependent members drive outpatient visits.** Dependent members have minimal impact on outpatient costs. While dependents (spouses and children) account for 200,000 in outpatient payable amounts, this represents less than 1% of total outpatient spending, indicating a relatively minor financial impact.
 
+  
 [Visualization specific to category 2]
 
 
