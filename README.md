@@ -1,14 +1,14 @@
 # Project Background
 This project is based on data from a Third-Party Administrator (TPA) in the healthcare insurance industry. The company partners with multiple insurers and corporate clients to manage claims, provider networks, and member benefits.
 
-Between 2023 and 2025, the TPA served over 200,000 beneficiaries and processed more than 150,000 claims annually. Core business metrics include membership growth, claims utilization rate, cost per member per month (PMPM), and claims turnaround time.
+Between 2018 and 2025, the TPA served almost 30,000 beneficiaries and processed more than 140,000 claims annually. Core business metrics include active membership growth, claims utilization rate, average claim cost per beneficiary, and approval vs. rejection ratio. Additional insights cover demographic distribution, cost breakdown by service category, and provider performance.
 
 Key business metrics include:
 - **Membership Growth Rate:** tracking the number of active beneficiaries year-over-year.
 - **Claims Utilization Rate:** measuring the frequency and intensity of healthcare service use.
-- **Cost per Member per Month (PMPM):** a benchmark for cost efficiency in healthcare financing.
-- **Turnaround Time for Claims Processing:** a critical KPI for operational efficiency.
-- **Healthcare Provider Network Expansion:** monitoring the growth of contracted hospitals, clinics, and pharmacies.
+- **Average Claim Cost per Beneficiary:** providing insight into the financial burden per active member.
+- **Claims Approval vs. Rejection Ratio:** reflecting service quality, eligibility compliance, and adjudication efficiency.
+- **Inpatient vs. Outpatient Cost Share::** highlighting the distribution of healthcare spending across major service categories.
 
 An interactive Power BI dashboard used to report and explore healthcare consumption trends can be found here [link].
 
