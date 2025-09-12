@@ -84,6 +84,5 @@ Based on the analysis of healthcare consumption (2018–2025), the following act
 * **Support preventive care** Encourage policy holders to adopt wellness and preventive benefits, which are already linked to lower inpatient admission rates in certain groups.
 
 # Dashboard
-The dashboard can be found in Tableau Public here. This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
-
+The dashboard is available on Power BI Public here. It allows users to filter by plan, beneficiary, and provider, with a focus on trends and values across marketing, signup, and claim metrics.
 
