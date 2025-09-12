@@ -10,7 +10,7 @@ Key business metrics include:
 - **Claims Approval vs. Rejection Ratio:** reflecting service quality, eligibility compliance, and adjudication efficiency.
 - **Inpatient vs. Outpatient Cost Share::** highlighting the distribution of healthcare spending across major service categories.
 
-An interactive Power BI dashboard used to report and explore healthcare consumption trends can be found here [link].
+An interactive Power BI dashboard used to report and explore healthcare consumption trends can be found here [[link](https://app.powerbi.com/view?r=eyJrIjoiNTgxMGQ2MGYtM2Q3ZS00YmFjLTk3OGUtOTZkMDAwNjYyMWIzIiwidCI6ImE0MWU5ZTIwLTUxNjYtNGUwZC1hYmU3LTBmYjFmNWZlN2E2MCJ9)].
 
 # Data Structure & Initial Checks
 
@@ -79,5 +79,5 @@ Based on the analysis of healthcare consumption (2018–2025), the following act
 * **Support preventive care** Encourage policy holders to adopt wellness and preventive benefits, which are already linked to lower inpatient admission rates in certain groups.
 
 # Dashboard
-The dashboard is available on Power BI Public here. It allows users to filter by plan, beneficiary, and provider, with a focus on trends and values across marketing, signup, and claim metrics.
+The dashboard is available on Power BI Public. It allows users to filter by plan, beneficiary, and provider, with a focus on trends and values across marketing, signup, and claim metrics.
 
