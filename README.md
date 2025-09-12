@@ -59,22 +59,21 @@ Analysis of healthcare consumption between 2018–2025 revealed that outpatient 
 [Visualization specific to category 2]
 
 
-### Provider Network Insights
+### Top Utilizers Insights
 
-* **Utilization is concentrated among a few providers.** The top 10 hospitals and clinics account for over 60% of total claims, showing strong member preference for a limited set of providers within the network.
+* **Utilization is concentrated among a few providers.** The top 10 small hospitals account for 71% of total hospital costs (20 million out of 28 million), highlighting members’ strong reliance on a limited set of facilities.
   
-* **Cost per service varies widely by provider.** For similar procedures, cost differences of up to 25–30% were observed across providers. This highlights opportunities for preferred provider agreements to manage costs.
+* **High concentration of spend among few members.** The top 6 beneficiaries account for around 18M in payable amounts — nearly 21% of the total spend (85M). This signals a strong cost concentration within a small segment of the member base, pointing to potential high-risk or chronic cases that require closer monitoring.
   
-* **Pharmacy network usage is expanding.** Pharmacy claims increased by 18% between 2023–2025, with a noticeable shift toward chain pharmacies that offer wider medication availability.
+* **Service-level trends show concentration.** A few services make up the bulk of costs, with noticeable shifts in demand over time.
   
-* **Provider distribution impacts access.** Regions with fewer contracted providers show higher inpatient admission rates, suggesting that limited outpatient access may be driving members directly to hospitals.
 
 [Visualization specific to category 3]
 
 
 # Final Recommendations
 
-Based on the analysis of healthcare consumption (2023–2025), the following actions are recommended to optimize costs, improve member outcomes, and strengthen provider partnerships:
+Based on the analysis of healthcare consumption (2018–2025), the following actions are recommended to optimize costs, improve member outcomes, and strengthen provider partnerships:
 
 * **Focus on cost drivers** Prioritize interventions in inpatient care and chronic medication usage, which account for the largest share of total costs despite lower utilization volume.
 
