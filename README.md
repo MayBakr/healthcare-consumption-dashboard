@@ -61,7 +61,7 @@ Analysis of healthcare consumption between 2018–2025 revealed that outpatient 
   
 * **High concentration of spend among few members.** The top 6 beneficiaries account for around 18M in payable amounts — nearly 21% of the total spend (85M). This signals a strong cost concentration within a small segment of the member base, pointing to potential high-risk or chronic cases that require closer monitoring.
   
-* **Service-level trends show concentration.** A few services make up the bulk of costs, with noticeable shifts in demand over time.
+* **Service-level trends show concentration.** a few services make up the bulk of costs, with noticeable shifts in demand over time. Users can also drill through to service details by beneficiary utilization for deeper insights.
   
      <img width="566" height="646" alt="image" src="https://github.com/user-attachments/assets/ea5b1a1d-9014-4931-bdf3-84fac7df815b" />
 
